@@ -1039,7 +1039,7 @@ paginate: true
 
 完成编辑后，我使用 Marp 预览功能查看幻灯片，并将其导出为 PPTX 文件。
 
-<img src="C:\Users\zhang\Desktop\mdstduy\images\P4.jpg" style="zoom:50%;" />
+<img src="./images/P4.jpg" style="zoom:50%;" />
 
 #### 7.3.2 数学公式实践
 
