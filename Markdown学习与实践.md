@@ -429,7 +429,7 @@ print(message)
 
 将文件保存后，可以使用 Typora 直接打开，，然后使用Markdown预览功能查看渲染结果：
 
-<img src="C:\Users\zhang\Desktop\mdstduy\images\P2.jpg" style="zoom:50%;" />
+<img src="./images/P2.jpg" style="zoom:50%;" />
 
 ### 3.1.11 本节小结
 
